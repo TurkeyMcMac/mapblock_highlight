@@ -1,3 +1,6 @@
+**Instead of using this mod, I suggest you use Minetest's builtin functionality
+that does basically the same thing.**
+
 This is a simple client-side mod for Minetest. It lets you highlight individual
 mapblocks using chat commands. An example use case is ensuring a Mesecons device
 is inside a single mapblock.
